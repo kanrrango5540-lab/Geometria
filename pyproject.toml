@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "geometria"
+version = "0.1.0"
+description = "Basic geometry package for computational physics students."
+requires-python = ">=3.10"
+[tool.setuptools.packages.find]
+where = ["src"]
