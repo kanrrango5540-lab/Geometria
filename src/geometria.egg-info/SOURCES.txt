@@ -1,0 +1,9 @@
+pyproject.toml
+src/geometria/__init__.py
+src/geometria/areas.py
+src/geometria/pruebas.py
+src/geometria/volumes.py
+src/geometria.egg-info/PKG-INFO
+src/geometria.egg-info/SOURCES.txt
+src/geometria.egg-info/dependency_links.txt
+src/geometria.egg-info/top_level.txt
